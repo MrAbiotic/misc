@@ -19,3 +19,5 @@ for i in range(n):
 
 prob = s/n*100
 print(f"Probability: {prob:.5f} %")
+# Prints about:
+# Probability: 1.80593 %
